@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hello there 👋, I'm Szymon Olędzki</h1>
+<h3>A passionate Data Science student from Poland</h3>
 
-<!--
-**spoledzki/spoledzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **my engineering thesis (EDA Shiny App)**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Shiny, Tidymodels, Tensorflow and Keras**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **ML/DataViz projects**
+
+- 💬 Ask me about **R and statistics**
+
+- 📫 How to reach me **spoledzki@gmail.com**
+
+- ⚡ Fun fact **my favourite theorem is the infinite monkey theorem**
