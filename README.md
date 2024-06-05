@@ -12,3 +12,5 @@
 - 📫 How to reach me **spoledzki@gmail.com**
 
 - ⚡ Fun fact **my favourite theorem is the infinite monkey theorem**
+
+<h3>Check out my finest projects in pinned 📌 section below!</h3>
