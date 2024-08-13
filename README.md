@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML/DataViz projects**
 
-- 💬 Ask me about **R and statistics**
+- 💬 Ask me about **Python, R and statistics**
 
 - 📫 How to reach me **spoledzki@gmail.com**
 
